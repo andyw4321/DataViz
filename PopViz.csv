@@ -1,7 +1,7 @@
 Age_Range,Gender,Pop_Size
 0 - 4,Male,-969
-9-May,Male,-872
-14-Oct,Male,-876
+5 - 9,Male,-872
+10 - 14,Male,-876
 15 - 19,Male,-1098
 20 - 24,Male,-978
 25 - 29,Male,-890
@@ -18,8 +18,8 @@ Age_Range,Gender,Pop_Size
 80 - 84,Male,-26
 85+,Male,-12
 0 - 4,Female,575
-9-May,Female,872
-14-Oct,Female,1163
+5 - 9,Female,872
+10 - 14,Female,1163
 15 - 19,Female,798
 20 - 24,Female,609
 25 - 29,Female,452
